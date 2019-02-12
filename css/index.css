@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+}
+.wrapper{
+  margin:150px auto;
+  width:300px;
+  border:1px solid black;
+}
+.btn{
+  margin:30px auto;
+  padding:15px 30px;
+  border:1px solid black;
+  border-radius:5px;
+  text-align: center;
+  width:50px;
+}
+.imgBox{
+  font-size: 0;
+  position: relative;
+  width:300px;
+  height:300px;
+}
+.item{
+  width:100px;
+  height:100px;
+  border:1px solid blue;
+  box-sizing: border-box;
+  background:url('../img/pic.jpg');
+  position: absolute;
+  
+}
+
+.back{
+  transition:left 100ms linear;
+}

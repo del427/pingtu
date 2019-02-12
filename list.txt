@@ -1,0 +1,18 @@
+卷 文档 的文件夹 PATH 列表
+卷序列号为 0009-437E
+F:.
+│  list.txt
+│  README.md
+│  
+├─css
+│      index.css
+│      
+├─html
+│      index.html
+│      
+├─img
+│      pic.jpg
+│      
+└─js
+        index.js
+        
